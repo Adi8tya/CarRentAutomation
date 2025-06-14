@@ -1,0 +1,5 @@
+This project is a Java-based automation tool designed to streamline the process of comparing car rental offers from multiple providers. Using Selenium WebDriver, the system automatically navigates through popular car rental websites such as Hertz, Avis, and Enterprise to extract real-time data including vehicle types, rental prices, pickup locations, and availability.
+
+The extracted data is aggregated and normalized into a unified format, allowing for meaningful comparisons across different platforms. A custom comparison logic ranks rental offers based on factors such as cost, duration, and vehicle category, helping users quickly identify the best available deals.
+
+The tool incorporates robust error handling, dynamic waits, and a modular codebase to ensure reliability and adaptability in response to changing website structures. Final results are presented in a clean, user-friendly format (such as CSV or structured console output), reducing the need for manual browsing and saving users significant time and effort.
